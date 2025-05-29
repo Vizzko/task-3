@@ -63,23 +63,3 @@
 
 ---
 
-## Summary of Concepts Learned
-
-- How to initialize a Git repository and connect it to GitHub.
-- Creating, switching, and pushing branches to enable safe parallel development.
-- Creating pull requests for code review and merging changes.
-- Using a `.gitignore` file to exclude unnecessary files from version control.
-- Tagging important versions in project history.
-- Collaborative workflow even when working solo.
-
----
-
-## Next Steps
-
-- Continue to use branches for new features or bug fixes.
-- Document all changes and features in the README or separate markdown files.
-- Submit the GitHub repository link as per internship guidelines.
-
----
-
-**Tip:** You can update this documentation as you add more features or steps!
